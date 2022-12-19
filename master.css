@@ -1,0 +1,126 @@
+body{
+  margin: 0;
+  text-align: center;
+  color: #40514e;
+  
+}
+.btn {
+  background: #62B6B7;
+  background-image: -webkit-linear-gradient(top, #62B6B7, #2980b9);
+  background-image: -moz-linear-gradient(top, #62B6B7, #2980b9);
+  background-image: -ms-linear-gradient(top, #62B6B7, #2980b9);
+  background-image: -o-linear-gradient(top, #62B6B7, #2980b9);
+  background-image: linear-gradient(to bottom, #62B6B7, #2980b9);
+  -webkit-border-radius: 30;
+  -moz-border-radius: 30;
+  border-radius: 30px;
+  text-shadow: 1px 1px 3px #5c485c;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 18px;
+  padding: 8px 16px 8px 16px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+h1{
+  margin: 30px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+  font-size: 500%;
+  color:  #fbff00;
+  line-height: 2;
+}
+h2{
+  color: #09099e;
+  font-weight: normal;
+  font-size: 2.5em;
+  padding-bottom: 10px;
+}
+.intro1{
+  font-family: 'Kalam', cursive;
+  font-size: 1.5rem;
+  color: #fbff00;
+}
+.top-container{
+  background-color: #62B6B7;
+}
+
+.middle-container{
+  margin: 100px 0;
+}
+
+.bottom-container{
+  background-color: #62B6B7;
+  line-height: 2;
+  padding-bottom: 25px;
+}
+
+.top-cloud{
+  padding-top: 70px;
+  position: relative;
+  left: 210px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 350px;
+}
+
+.profile_pic{
+  border-radius: 100%;
+  width: 15%;
+}
+.skill-1{
+  border-radius: 100%;
+  width: 30%;
+  float: left;
+  padding-right: 30px;
+}
+.skill-2{
+  border-radius: 50%;
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+a{
+  color: #09099e;
+}
+h3{
+  color: #09099e;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;
+  color: rgb(147, 184, 188);
+  width: 5%;
+}
+.footer-link{
+  color: #012352;
+  font-size: 18px;
+  word-spacing: 15px;
+  text-decoration: none;
+
+}
+.footer-credits{
+  margin-bottom: 0;
+}
+
+.profile-para{
+  width: 50%;
+  margin-left: 360px;
+}
